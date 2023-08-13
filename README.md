@@ -21,6 +21,8 @@ The variables in the dataset are as follows:
 - calculated_host_listings_count: Host's listed property count.
 - availability_365: Number of days for which the property is available in a year.
 
+Data Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
 ### Exploratory Data Analysis (EDA)
 The dataset has been thoroughly explored using the process called Exploratory Data Analysis (EDA). The crucial steps are:
 - Data cleaning, including duplicate checks, handling missing values, and eliminating outliers.
